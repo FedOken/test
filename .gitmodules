@@ -1,3 +1,0 @@
-[submodule "testsub"]
-	path = frontend
-	url = https://github.com/FedOken/testsub.git
